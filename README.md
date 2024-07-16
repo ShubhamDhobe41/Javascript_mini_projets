@@ -1,2 +1,3 @@
 # Javascript_mini_projects
-Javascript mini project 
+Javascript mini project .
+author :- shubham
