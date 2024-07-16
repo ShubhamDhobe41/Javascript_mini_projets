@@ -1,2 +1,2 @@
-# Javascript_mini_projets
+# Javascript_mini_projects
 Javascript mini project 
